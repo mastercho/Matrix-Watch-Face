@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>gif_array.xml</name>
+		<arraytype>9</arraytype>
+		<centerX>-224</centerX>
+	</drawable>
+	<drawable>
+		<name>hourminute_array.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>-12</centerX>
+		<centerY>-6</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.4.8.0'/>
+-->
+</clockskin>
